@@ -1,0 +1,4 @@
+Train Nodes:
+1, 2, 3, 5, 6, 7
+Test Nodes:
+0, 4
